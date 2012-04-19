@@ -39,30 +39,30 @@ Every Rails Girls event starts with an installation-fest where the setup is pre-
 
 #### Friday evening: Installation
 
-19:00 - 21:00 Installations and getting to know each other
+19:00 — 21:00 Installations and getting to know each other
 *Hint*: Have a coach table where problematic computers can be brought. 
 
-Some installations will fail: be prepared to set girls in pairs, don't use endless amounts of time.
+Some installations will fail: be prepared to set girls in pairs, try to be quick.
 
 Decorate the place with balloons and posters. Put a fun <a href="http://open.spotify.com/user/lindaliukas/playlist/1fgkUFCFDrSn621kf4iHhr">playlist</a> together for the evening. 
 
 Come up with activities to break the ice: ask the girls to write why they are attending the event on post-its or to draw and describe their dream web app. 
 
-21 -> Coach dinner
+21:00 — Coach dinner
 Go through the application with the coaches during dinner. 
 
 
 #### Saturday: Workshop
 
-09:00 - 10:00 Registration and coffee
+**09:00 — 10:00** Registration and coffee
 *Hint* Reserve enough time for people to mingle and to solve any problems there might be with installations. Give out workbooks, collect acronyms for the Bento exercise. 
 
-10:00 - 10:10 Welcoming words
+**10:00 — 10:10** Welcoming words
 *Hint* Mention sponsors, show what we'll build, tell what programming is. 
 
-10:30 - 11:00 UX workshop
+**10:30 — 11:00** UX workshop
 
-11:00 - 11:30 Introduction to programming
+**11:00 — 11:30** Introduction to programming
 *Hint* Ask one of the coaches to do this. Explain why learning Ruby basics is important even though they'll be using Rails.
 
 Themes to cover:
@@ -72,7 +72,7 @@ Themes to cover:
 
 Show & tell with <a href="http://tryruby.org">tryruby.org</a>, first three-four exercises all together. 
 
-11:30 - 13:00 Workshop time
+**11:30 — 13:00** Workshop time
 Going (slowly!) through the curriculum at <a href="http://railsgirls.com/app">railsgirls.com/app</a>. Stop to explain what you’re doing and what the different concepts mean. 
 
 Try to aim for simple explanations even with the cost of accuracy. You don’t need to talk about all underlying concepts. Just try to answer questions when they arise, or move on if they’re too hard or out of scope. You are not here to teach perfect coding skills but to show how to get stuff done. One has to learn how to build web apps before learning how to do it well.
@@ -88,9 +88,9 @@ Concepts to cover:
 
 *Tips:* Coaches are people too. They are doing this for the first time too. Teaching might be hard and intimidating, so remember to be available to help coaches or groups with difficult situations or just provide support and encouragement.
 
-13:00 - 14:00 Lunch
+**13:00 — 14:00** Lunch
 
-14:00 - 14:30 Bentobox exercise
+**14:00 — 14:30** Bentobox exercise
 Putting technical jargon into a context with a conceptual model called Bentobox. 
 
 Two exercises: 1) Going through the 10 technical concepts with the physical Bentobox boards.  2) Going through the words the girls have themselves submitted with the coaches. 
@@ -98,7 +98,7 @@ Two exercises: 1) Going through the 10 technical concepts with the physical Bent
 + [Bentobox slidedeck](http://speakerdeck.com/u/railsgirls/p/rails-girls-bentobox-exercise)
 + [Instruction video](http://vimeo.com/39049632)
 
-14:30 - 18:00 Workshop time. 
+**14:30 - 18:00** Workshop time. 
 
 Time to continue working on the applications. Monitor the situation: when it seems like people have a hard time concentrating, have the coaches or other speakers give quick lightning talks. 
 
@@ -110,7 +110,7 @@ Example topics for lighting talks:
 
 Once everyone has finished their app, there is time to extend the application by modifying the CSS, implementing commenting systems etc. Allow enough time for experimentation. 
 
-19:00 After party
+**19:00** After party
 *Hint:*
 Invite everyone, also the local developers, boys, those who weren't accepted, to join! 
 
