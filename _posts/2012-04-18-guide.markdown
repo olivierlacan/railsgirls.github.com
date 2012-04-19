@@ -39,7 +39,7 @@ Every Rails Girls event starts with an installation-fest where the setup is pre-
 
 #### Friday evening: Installation
 
-19:00 — 21:00 Installations and getting to know each other
+**19:00 — 21:00** Installations and getting to know each other
 *Hint*: Have a coach table where problematic computers can be brought. 
 
 Some installations will fail: be prepared to set girls in pairs, try to be quick.
@@ -48,7 +48,7 @@ Decorate the place with balloons and posters. Put a fun <a href="http://open.spo
 
 Come up with activities to break the ice: ask the girls to write why they are attending the event on post-its or to draw and describe their dream web app. 
 
-21:00 — Coach dinner
+**21:00** — Coach dinner
 Go through the application with the coaches during dinner. 
 
 
